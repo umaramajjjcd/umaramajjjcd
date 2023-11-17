@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @umaramajjjcd
-- 👀 I’m interested in ...love
+- 👋 Hi, I’m @mhdumar
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...github
-- 💞️ I’m looking to collaborate on ...love
-- 📫 How to reach me ...high
+- 💞️ I’m looking to collaborate on ...my birthday 
+- 📫 How to reach me ...0720728346
 
 <!---
 umaramajjjcd/umaramajjjcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
